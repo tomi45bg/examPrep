@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus Scoring System", "Bon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Modifier", "Array Modifier\Array Modifier.csproj", "{21663D36-4184-4DA4-B307-2DD0C15DD0BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory", "Inventory\Inventory.csproj", "{931C2B8B-CC9D-46C7-B6B5-5C052D4ADCE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{21663D36-4184-4DA4-B307-2DD0C15DD0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21663D36-4184-4DA4-B307-2DD0C15DD0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21663D36-4184-4DA4-B307-2DD0C15DD0BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931C2B8B-CC9D-46C7-B6B5-5C052D4ADCE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931C2B8B-CC9D-46C7-B6B5-5C052D4ADCE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931C2B8B-CC9D-46C7-B6B5-5C052D4ADCE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931C2B8B-CC9D-46C7-B6B5-5C052D4ADCE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
