@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hearth Delivery", "Hearth Delivery\Hearth Delivery.csproj", "{74D5D9C4-B307-4857-B5DE-A19F90FAA991}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hearth Delivery", "Hearth Delivery\Hearth Delivery.csproj", "{74D5D9C4-B307-4857-B5DE-A19F90FAA991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus Scoring System", "Bonus Scoring System\Bonus Scoring System.csproj", "{0E5C0E58-4D16-4FFE-B875-62676016CB18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{74D5D9C4-B307-4857-B5DE-A19F90FAA991}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74D5D9C4-B307-4857-B5DE-A19F90FAA991}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74D5D9C4-B307-4857-B5DE-A19F90FAA991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5C0E58-4D16-4FFE-B875-62676016CB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5C0E58-4D16-4FFE-B875-62676016CB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5C0E58-4D16-4FFE-B875-62676016CB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5C0E58-4D16-4FFE-B875-62676016CB18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
